@@ -11,6 +11,10 @@ And more
 2. Extract file
 3. Run 'Q-Protector.exe'
 4. wait
+5. Restart your Computer/Laptop/Mac
 
 # Setting
 You can setting in 'setting' file
+
+# Script Language
+Create by python
