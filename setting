@@ -1,0 +1,5 @@
+TimeToResetToken=[10.000000, 20.000000, 35.000000]
+RandomTime=true
+CreateFakeDiscord=true
+LowCPU=false
+SaveSetting=true
