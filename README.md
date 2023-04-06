@@ -13,4 +13,4 @@ And more
 4. wait
 
 # Setting
-You can setting in setting.txt
+You can setting in 'setting' file
