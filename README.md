@@ -13,6 +13,13 @@ And more
 4. wait
 5. Restart your Computer/Laptop/Mac
 
+# Suggestion After running Program
+1. Restart your pc after running
+2. Run discord
+3. Uninstall discord (if you use discord on destop)
+4. Install discord
+5. Don't remove program because it will not active!
+
 # Setting
 You can setting in 'setting' file
 
