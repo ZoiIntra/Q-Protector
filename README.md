@@ -26,7 +26,7 @@ You can setting in `setting` file
 # Creater
 Dev form loyz hub
 - Zoi X#0007 (ZoiIntra)
-- #0000 (QuarticDev)
+- Quartic Dev#0038 (QuarticDev)
 
 # Script Language
 Create by python
